@@ -2,6 +2,12 @@
 
 Site en ligne: https://christophe-mannebarth.github.io/afpa-dwwm_mission3_projet-BD_paradisio/index.html
 
+Dossier technique: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission3_projet-BD_paradisio/blob/main/docs/DossierTechnique_groupe2.pdf
+
+Evaluation du vécu de la mission: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission3_projet-BD_paradisio/blob/main/docs/VecuTravail_groupe2.pdf
+
+Prise en compte des besoins de la mission: https://github.com/Christophe-Mannebarth/afpa-dwwm_mission3_projet-BD_paradisio/blob/main/docs/Prise_en_compte_besoins_groupe2.pdf
+
 Votre mission est de concevoir en équipe un site web reprenant les principales fonctionnalités des sites marchands, 
 en vous inspirant des sites de type drive de la grande distribution. 
 
