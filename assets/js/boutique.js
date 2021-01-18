@@ -42,12 +42,7 @@ new (function () {
   function getAlbum(element) {
     let album = albums.get(element.value);
     console.log(album);
-
     afficheAlbum(album);
-
-    if (album !== undefined) {
-      setCookie("dernierId", element.value, 365);
-    }
   }
 
   /**

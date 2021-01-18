@@ -115,5 +115,6 @@ function supprimer(code) {
       '<button class="hvr-buzz btnToon btn-danger mb-1" type="submit" id="btnDelete" onclick="supprimer(this.parentNode.parentNode.cells[0].innerHTML)">X</button>';
   }
   document.getElementById("prixTotal").innerHTML = monPanier.getPrixPanier();
+  document.getElementById("totalNavbar").innerHTML = monPanier.getPrixPanier();
   document.getElementById("nbreLignes").innerHTML = longueur;
 }
