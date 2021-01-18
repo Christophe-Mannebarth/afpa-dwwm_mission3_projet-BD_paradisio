@@ -27,3 +27,12 @@ ce sera l'occasion de mettre à profit vos récents apprentissages.
 Quand cette mission tirera à sa fin, il reste à votre équipe à établir son rapport 
 (voir l'opération 6 Je documente tous les composants de code réalisé) et à faire le bilan des actions 
 (voir l'opération 7 "J'analyse ma pratique de développement de pages Web responsives").
+
+Choix des UserStories :
+
+    Je veux en tant qu’utilisateur pouvoir me connecter afin de passer des commandes.
+
+    Je veux, en tant qu’utilisateur, voir une liste des livres que je pourrais classer selon mes envies afin de pouvoir en choisir pour achat.
+
+    Je veux, en tant qu’utilisateur, afficher mon panier afin de finaliser ma commande en confirmant ou annulant certains choix.
+
